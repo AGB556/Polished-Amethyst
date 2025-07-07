@@ -14,7 +14,7 @@ Better Case: I want a case that is more than a rectangle. Something open frame p
 
 While it looks similar to my original design, the entire PCB has been overhauled, as well as the case design completely changed from the old design. The only thing linking them together is the color scheme, as I absolutely love it. 
 
-This keyboard is a modified 1800 layout featuring backlit LEDs, an OLED screen, rotary encoder, and more! Powered by a pi pico, this thing is sure to become my daily driver. 
+This keyboard is a modified 1800 layout featuring backlit LEDs, an OLED screen, rotary encoder, and more! Powered by a pi pico, this thing is sure to become my daily driver. I am planning to use QMK for firmware at this time, but that might change in the future.
 
 ![image](https://github.com/user-attachments/assets/7162efe2-03b2-4ccc-b12f-f5dc2ddf09a4)
 
