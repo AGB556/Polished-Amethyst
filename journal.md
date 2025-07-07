@@ -4,6 +4,7 @@ author: "bcon"
 description: "second iteration of my keyboard with more features"
 created_at: "2025-07-04"
 ---
+Total Time Spent: 15 Hours
 
 ## **7/4/2025-7/5/2025 Log 1: A Fresh Start**
 
@@ -46,3 +47,27 @@ From there, I exported the board and started putting it into CAD.
 After exporting the board in, I started to populate the board with switches and keycaps, along with my board. I am going to mount my board from the bottom to work with the case style I am thinking of. 
 
 TIme Spent: 6 Hours
+
+## **7/6/2025 Log 3: Finishing Touches**
+
+I finished up both my case and added on some nice silkscreen to my PCB. 
+
+![image](https://github.com/user-attachments/assets/e70c8df7-1a85-42e4-9d1c-8ad9237584dd)
+![image](https://github.com/user-attachments/assets/1117a05c-eb57-4645-b721-9eadb7d98bec)
+
+These decals add a little bit of personal branding into the pcb and will help it stand out in the case.
+
+Regarding the case, I went for an open air design to really show off the pcb. 
+
+![image](https://github.com/user-attachments/assets/dcf1756f-c86c-4249-89f5-4b5e938a9c41)
+
+The PCB bolts in with 6 brass standoffs at the edges. However, due to concerns of the PCB bending in the middle during heavy use, I added spots to place more standoffs that, while do not bolt into the pcb, still support it from force from above. I have added many places to put said standoffs to spread the load from use. The case itself will be printed in hopefully one part on a belt printer, and has a 5 degree slope to permit better typing posture.
+
+![image](https://github.com/user-attachments/assets/27edfd91-3a42-49ee-9c5e-428bdac01bad)
+
+The best thing about this being printed is I can easily reprint it to tweak the angle. Not pictures here, but there will also be some friction feet to keep the keyboard in its location. I also put the raspberry pi pico upside down for better packaging. 
+
+Without further ado, here is the finished product.
+![Polished Amethyst](https://github.com/user-attachments/assets/8dd95bd7-966e-42f5-b11d-b68fa0f9e53b)
+
+TIme Spent: 4 Hours
