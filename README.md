@@ -1,2 +1,4 @@
 # Polished Amethyst
-a second iteration of my amethyst keyboard that is better designed, adds more features, and is the result of my experience with the first version of Amethyst
+
+![Polished Amethyst](https://github.com/user-attachments/assets/deb6a2ea-8ffb-4e74-984f-cc0b890595dd)
+
